@@ -28,7 +28,7 @@ A graphical user interface for the job listing automation tool that scrapes job 
 
 1. **Option 1**: Run the launcher script
    ```bash
-   python run_gui.py
+   python run_ctk_gui.py
    ```
 
 2. **Option 2**: Run directly
